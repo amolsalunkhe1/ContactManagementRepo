@@ -1,0 +1,5 @@
+D:\PROJECT\ContactManagement\Contact.Model\bin\Debug\Contact.Model.dll
+D:\PROJECT\ContactManagement\Contact.Model\bin\Debug\Contact.Model.pdb
+D:\PROJECT\ContactManagement\Contact.Model\obj\Debug\Contact.Model.dll
+D:\PROJECT\ContactManagement\Contact.Model\obj\Debug\Contact.Model.pdb
+D:\PROJECT\ContactManagement\Contact.Model\obj\Debug\Contact.Model.csprojResolveAssemblyReference.cache

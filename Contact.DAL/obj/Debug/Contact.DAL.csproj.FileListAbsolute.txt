@@ -1,0 +1,10 @@
+D:\PROJECT\ContactManagement\Contact.DAL\bin\Debug\Contact.DAL.dll.config
+D:\PROJECT\ContactManagement\Contact.DAL\bin\Debug\Contact.DAL.dll
+D:\PROJECT\ContactManagement\Contact.DAL\bin\Debug\Contact.DAL.pdb
+D:\PROJECT\ContactManagement\Contact.DAL\bin\Debug\EntityFramework.dll
+D:\PROJECT\ContactManagement\Contact.DAL\bin\Debug\EntityFramework.SqlServer.dll
+D:\PROJECT\ContactManagement\Contact.DAL\bin\Debug\EntityFramework.xml
+D:\PROJECT\ContactManagement\Contact.DAL\bin\Debug\EntityFramework.SqlServer.xml
+D:\PROJECT\ContactManagement\Contact.DAL\obj\Debug\Contact.DAL.csprojResolveAssemblyReference.cache
+D:\PROJECT\ContactManagement\Contact.DAL\obj\Debug\Contact.DAL.dll
+D:\PROJECT\ContactManagement\Contact.DAL\obj\Debug\Contact.DAL.pdb

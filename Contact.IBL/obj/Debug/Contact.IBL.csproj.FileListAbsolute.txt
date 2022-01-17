@@ -1,0 +1,7 @@
+D:\PROJECT\ContactManagement\Contact.IBL\bin\Debug\Contact.IBL.dll
+D:\PROJECT\ContactManagement\Contact.IBL\bin\Debug\Contact.IBL.pdb
+D:\PROJECT\ContactManagement\Contact.IBL\obj\Debug\Contact.IBL.csprojResolveAssemblyReference.cache
+D:\PROJECT\ContactManagement\Contact.IBL\obj\Debug\Contact.IBL.dll
+D:\PROJECT\ContactManagement\Contact.IBL\obj\Debug\Contact.IBL.pdb
+D:\PROJECT\ContactManagement\Contact.IBL\bin\Debug\Contact.Model.dll
+D:\PROJECT\ContactManagement\Contact.IBL\bin\Debug\Contact.Model.pdb

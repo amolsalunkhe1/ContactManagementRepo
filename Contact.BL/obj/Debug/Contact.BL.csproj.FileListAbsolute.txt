@@ -1,0 +1,16 @@
+D:\PROJECT\ContactManagement\Contact.BL\bin\Debug\Contact.BL.dll
+D:\PROJECT\ContactManagement\Contact.BL\bin\Debug\Contact.BL.pdb
+D:\PROJECT\ContactManagement\Contact.BL\obj\Debug\Contact.BL.csprojResolveAssemblyReference.cache
+D:\PROJECT\ContactManagement\Contact.BL\obj\Debug\Contact.BL.dll
+D:\PROJECT\ContactManagement\Contact.BL\obj\Debug\Contact.BL.pdb
+D:\PROJECT\ContactManagement\Contact.BL\bin\Debug\Contact.BL.dll.config
+D:\PROJECT\ContactManagement\Contact.BL\bin\Debug\Contact.DAL.dll
+D:\PROJECT\ContactManagement\Contact.BL\bin\Debug\Contact.IBL.dll
+D:\PROJECT\ContactManagement\Contact.BL\bin\Debug\Contact.Model.dll
+D:\PROJECT\ContactManagement\Contact.BL\bin\Debug\EntityFramework.dll
+D:\PROJECT\ContactManagement\Contact.BL\bin\Debug\EntityFramework.SqlServer.dll
+D:\PROJECT\ContactManagement\Contact.BL\bin\Debug\Contact.DAL.pdb
+D:\PROJECT\ContactManagement\Contact.BL\bin\Debug\Contact.IBL.pdb
+D:\PROJECT\ContactManagement\Contact.BL\bin\Debug\Contact.Model.pdb
+D:\PROJECT\ContactManagement\Contact.BL\bin\Debug\EntityFramework.xml
+D:\PROJECT\ContactManagement\Contact.BL\bin\Debug\EntityFramework.SqlServer.xml
